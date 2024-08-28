@@ -12,6 +12,7 @@ const Home = () => {
               <Link to={'/BasicDemo'}>Basic Demo</Link>
               <Link to={'/ViewCube'}>View Cube</Link>
               <Link to={'/SimplePhysics'}>Simple Physics</Link>
+              <Link to={'/SizeControlHtml'}>Cube Size Control Html</Link>
           </div>
       </div>
     )
